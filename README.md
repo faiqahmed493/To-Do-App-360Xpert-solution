@@ -190,6 +190,7 @@ This project helped me understand:
 
 * GitHub: https://github.com/faiqahmed493
 * LinkedIn: https://www.linkedin.com/in/faiq-ahmed-65b2782a3/
+* Project Live Link : https://faiqahmed493.github.io/To-Do-App-360Xpert-solution/
 
 ---
 
