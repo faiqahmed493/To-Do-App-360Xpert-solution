@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1 class="input-box" style="display: flex; justify-content: center; padding: 20px;">To-Do App</h1>
+
+    <div class="input-box" style="display: flex; justify-content: center; padding: 10px;">
+        <input type="text" id="user-input">
+        <button id="user-taskAdd-btn">Add Task</button>
+        <input type="text" placeholder="search task...." id="search-input">
+        <button id="user-search-button">Search</button>
+    </div>
+
+    <div id="tasks-list"></div>
+
+    <div id="pagination">
+        <button id="prev-btn">Prev</button>
+
+        <span id="page-info"></span>
+
+        <button id="next-btn">Next</button>
+    </div>
+
+    
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
